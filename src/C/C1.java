@@ -5,8 +5,4 @@ public class C1 {
         System.out.println("H W");
     }
 
-    public static void sayHel(){
-        System.out.println("Hell");
-    }
-
 }
