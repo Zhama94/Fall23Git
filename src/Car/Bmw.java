@@ -7,4 +7,8 @@ public class Bmw {
     public void drive(){
         System.out.println("Trr");
     }
+
+    public void openTheDoor(){
+        System.out.println("Open");
+    }
 }
