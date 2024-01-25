@@ -7,6 +7,7 @@ public class C1 {
 
     public static void sayHel(){
         System.out.println("Hell");
+        System.out.println("ho ho");
     }
 
 }
