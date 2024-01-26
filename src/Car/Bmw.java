@@ -9,6 +9,6 @@ public class Bmw {
     }
 
     public void openTheDoor(){
-        System.out.println("Open");
+        System.out.println("Openi:");
     }
 }

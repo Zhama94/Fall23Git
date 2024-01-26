@@ -5,5 +5,6 @@ public class C2 {
         System.out.println("G L");
         System.out.println("HiZZZ");
         System.out.println("gg");
+        System.out.println("Bye");
     }
 }
